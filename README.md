@@ -1,6 +1,8 @@
 # 스네이크 게임
 
-![Snake1](https://github.com/riviea/Snake-Game/assets/12423098/8fcf8a23-7e3e-46cf-9012-18ac659c9fda)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/riviea/Snake-Game/assets/12423098/8fcf8a23-7e3e-46cf-9012-18ac659c9fda">
+</p>
 
 미리보기
 
